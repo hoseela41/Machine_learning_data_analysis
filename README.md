@@ -12,7 +12,7 @@ In this section, two datasets are trained and validated by these implementations
 Details code for analyzing could be found in [Supervised Learning](https://github.com/hoseela41/Machine_learning_data_analysis/tree/main/Supervised_Learning). The comparison of accuracy and efficiency on dataset of diabetes could be concluded in these plots:![Accuracy comparison](https://github.com/hoseela41/Machine_learning_data_analysis/blob/main/Supervised_Learning/accuracy_compare.png?raw=true "Title")![Efficiency comparison](https://github.com/hoseela41/Machine_learning_data_analysis/blob/main/Supervised_Learning/efficiency_compare.png?raw=true "Title")
 
 ---
-## Unupervised learning
+## Unsupervised learning
 In this section, two datasets are trained and validated after **dimensionality reduction**, including
 * K-means and Expectation Maximization 
 * Principle component analysis
